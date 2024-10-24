@@ -1,0 +1,81 @@
+#mainheading{
+    display: inline-block;
+    text-align: center;
+    font-size: 2.5rem;
+    background-color:darkslategray;
+    border-radius: 20px;
+    border: 10px solid ;
+    
+}
+#mainbackround{
+    background-color: bisque;
+}
+#headlinktolly{
+    background-color:rgb(26, 28, 8);
+    color: aliceblue;
+    
+}
+#headlinkbolly{
+    background-color:rgb(26, 28, 8);
+    color: aliceblue;
+
+}
+#headlinkkolly{
+    background-color:rgb(26, 28, 8);
+    color: aliceblue;
+}
+#TELUGUCINEMA{
+    display: inline-block;
+    background-color:brown;
+    color: rgb(27, 31, 34);
+    border-radius: 20px;
+    text-align: center;
+    border: 5px solid ;   
+}
+#BOLLYWOODCINEMA{
+    display: inline-block;
+    background-color:brown;
+    color: rgb(27, 31, 34);
+    border-radius: 20px;
+    text-align: center;
+    border: 5px solid ;
+}
+#KOLLYWOOD{
+    display: inline-block;
+    background-color:brown;
+    color: rgb(27, 31, 34);
+    border-radius: 20px;
+    text-align: center;   
+    border: 5px solid ;  
+}
+#tollyhome{
+    background-color:rgb(26, 28, 8);
+    color: aliceblue;
+}
+#tollywoodpagebc{
+    background-color: bisque;
+}
+
+#indexTelugucinemapara{ 
+    display: inline-block;
+width: 900px;
+height: 20px;
+text-align:justify;
+overflow:auto ;
+
+}
+#indexbollywoodcinemapara{ 
+    display: inline-block;
+width: 700px;
+height: 20px;
+text-align:justify;
+overflow: auto;
+
+}
+#indexkollywoodcinemapara{ 
+display: inline-block;
+width: 700px;
+height: 20px;
+text-align:justify;
+
+}
